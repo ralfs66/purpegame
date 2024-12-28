@@ -1,0 +1,18 @@
+
+Deactivate NPC if not in current map.  OK
+Max screen 800x800px   OK
+
+
+
+
+
+
+
+
+Login/register form
+Spinner logo
+
+Save game state
+Multiplayer
+
+Chat button. Modal with textbox and OK. Carry text above character. 
